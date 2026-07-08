@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+--- Policy Information ---
+Policy Number: POL-100555
+Policyholder Name: Arjun Mehta
+Effective Dates: 15-Feb-2026 to 14-Feb-2027
+
+--- Incident Information ---
+Date: 01-Jul-2026
+Time: 23:45
+Location: Outer Ring Road, Bengaluru
+Description: Vehicle collided with a parked truck. Witness statements seem inconsistent with the damage pattern, and the scene appears to have been staged to look like a genuine accident.
+
+--- Involved Parties ---
+Claimant: Arjun Mehta
+Third Parties: Unknown truck driver
+Contact Details: arjun.mehta@example.com, +91-9123456780
+
+--- Asset Details ---
+Asset Type: Motor Vehicle
+Asset ID: KA-05-CD-9988
+Estimated Damage: 185000
+
+--- Other Mandatory Fields ---
+Claim Type: Property Damage
+Attachments: photos.zip, police_report.pdf
+Initial Estimate: 185000

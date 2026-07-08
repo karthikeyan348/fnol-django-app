@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+--- Policy Information ---
+Policy Number: POL-101020
+Policyholder Name: Deepak Joshi
+Effective Dates: 10-Jun-2026 to 09-Jun-2027
+
+--- Incident Information ---
+Date: 04-Jul-2026
+Time: 18:30
+Location: Electronic City, Bengaluru
+Description: Fire broke out in the warehouse storage unit due to an electrical short circuit, damaging stored inventory.
+
+--- Involved Parties ---
+Claimant: Deepak Joshi
+Third Parties: None
+Contact Details: deepak.joshi@example.com, +91-9090909090
+
+--- Asset Details ---
+Asset Type: Commercial Warehouse
+Asset ID: WH-2200
+Estimated Damage: 950000
+
+--- Other Mandatory Fields ---
+Claim Type: Property Damage
+Attachments: fire_dept_report.pdf, inventory_list.xlsx, photos.zip
+Initial Estimate: 950000

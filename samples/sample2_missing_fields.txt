@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+--- Policy Information ---
+Policy Number: POL-100987
+Policyholder Name: Sunita Rao
+Effective Dates:
+
+--- Incident Information ---
+Date: 05-Jul-2026
+Time:
+Location: Whitefield, Bengaluru
+Description: Water damage to kitchen ceiling due to a burst pipe in the flat above.
+
+--- Involved Parties ---
+Claimant: Sunita Rao
+Third Parties: Neighbor (Flat 402)
+Contact Details: sunita.rao@example.com
+
+--- Asset Details ---
+Asset Type: Home Contents
+Asset ID:
+Estimated Damage: 42000
+
+--- Other Mandatory Fields ---
+Claim Type: Property Damage
+Attachments: None
+Initial Estimate: 42000

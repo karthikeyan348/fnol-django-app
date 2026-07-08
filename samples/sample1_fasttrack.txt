@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+--- Policy Information ---
+Policy Number: POL-100234
+Policyholder Name: Ravi Kumar
+Effective Dates: 01-Jan-2026 to 31-Dec-2026
+
+--- Incident Information ---
+Date: 03-Jul-2026
+Time: 14:20
+Location: MG Road, Bengaluru, Karnataka
+Description: Vehicle was scratched by a shopping cart in a parking lot while parked outside a mall.
+
+--- Involved Parties ---
+Claimant: Ravi Kumar
+Third Parties: None
+Contact Details: ravi.kumar@example.com, +91-9876543210
+
+--- Asset Details ---
+Asset Type: Motor Vehicle
+Asset ID: KA-01-AB-1234
+Estimated Damage: 8500
+
+--- Other Mandatory Fields ---
+Claim Type: Property Damage
+Attachments: photos.zip, repair_quote.pdf
+Initial Estimate: 8500

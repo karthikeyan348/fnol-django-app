@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FNOL Claims Processing Agent</title>
+  <link rel="stylesheet" href="{% static 'claims/css/style.css' %}" />
+
+  <!-- React + ReactDOM (CDN, no npm/build step needed) -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- App config passed from Django to the React app -->
+  <script>
+    window.__FNOL_CONFIG__ = {
+      apiBase: "/api"
+    };
+  </script>
+
+  <!-- NOTE: app.js is pre-compiled from JSX to plain JS (React.createElement
+       calls) ahead of time. We deliberately do NOT use @babel/standalone in
+       the browser: some browser extensions inject/alter script content in
+       ways that conflict with Babel's runtime transform, causing a blank
+       page. Pre-compiling avoids any client-side JSX transform entirely.
+       Placed at the end of <body> so #root and window.__FNOL_CONFIG__ both
+       exist before this script runs. -->
+  <script src="{% static 'claims/js/app.compiled.js' %}"></script>
+</body>
+</html>

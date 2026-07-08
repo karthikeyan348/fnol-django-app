@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+--- Policy Information ---
+Policy Number: POL-100777
+Policyholder Name: Priya Nair
+Effective Dates: 01-Apr-2025 to 31-Mar-2026
+
+--- Incident Information ---
+Date: 06-Jul-2026
+Time: 09:10
+Location: Hosur Road, Bengaluru
+Description: Rear-end collision at a traffic signal. Policyholder sustained neck and back injuries and was taken to a nearby hospital for evaluation.
+
+--- Involved Parties ---
+Claimant: Priya Nair
+Third Parties: Mr. Vikram Singh (other driver)
+Contact Details: priya.nair@example.com, +91-9988776655
+
+--- Asset Details ---
+Asset Type: Motor Vehicle
+Asset ID: KA-03-EF-5566
+Estimated Damage: 65000
+
+--- Other Mandatory Fields ---
+Claim Type: Injury
+Attachments: medical_report.pdf, photos.zip
+Initial Estimate: 65000
